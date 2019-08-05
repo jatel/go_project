@@ -1,0 +1,5 @@
+build/
+log/
+wallet-btc-client.toml
+.vscode/
+debug.log
